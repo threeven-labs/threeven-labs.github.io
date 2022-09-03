@@ -3,8 +3,8 @@
 
 ### Artificial intelligence for prosperity and radiance.
   
-### Contact: threeven.labs@gmail.com
-  
+### Contact: <a href="mailto:threeven.labs@gmail.comm"threeven.labs@gmail.com</a></h3>
+
 <hr>
   
 ### Principal: 

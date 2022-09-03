@@ -3,7 +3,7 @@
 
 ### Artificial intelligence for prosperity and radiance
   
-### Contact: <a href="mailto:threeven.labs@gmail.com">threeven.labs@gmail.com</a></h3>
+### Contact: <a href="mailto:threeven.labs@gmail.com">threeven.labs@gmail.com</a>
 
 <hr>
   

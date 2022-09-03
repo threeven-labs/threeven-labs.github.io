@@ -1,7 +1,7 @@
 
 <IMG ALIGN=CENTER SRC="threeven-labs-logo.jpg">
 
-### Artificial intelligence
+### Artificial intelligence for prosperity and radiance.
   
 ### Contact: threeven.labs@gmail.com
   

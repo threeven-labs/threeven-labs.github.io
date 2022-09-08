@@ -1,5 +1,5 @@
 
-<IMG ALIGN=CENTER SRC="threeven-labs-logo.jpg">
+<IMG SRC="threeven-labs-logo.jpg">
 
 ### Artificial intelligence for global prosperity and mathematical beauty.
   

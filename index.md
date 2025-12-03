@@ -3,7 +3,7 @@
   
 ### Threeven Labs LLC
 
-### AI software consulting
+### AI Professional Services
   
 ### Contact: <a href="mailto:threeven.labs@gmail.com">threeven.labs@gmail.com</a>
 

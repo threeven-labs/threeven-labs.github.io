@@ -11,9 +11,7 @@
 
 ### Past and current clients include
 
-- Global HR tech leader
-- Sovereign AI/data authority
-- Global investment bank
+Global HR tech leaders, global investment banks, and sovereign AI authorities.
 
 <hr>
   

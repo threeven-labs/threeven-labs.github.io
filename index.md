@@ -11,7 +11,7 @@
 
 ### Past and current clients
 
-Global HR tech leader ($1b+ annual revenue), global investment bank ($50b+ annual revenue), sovereign AI authority.
+Global HR tech leader ($1b+ annual revenue), global investment bank ($50b+ annual revenue), sovereign AI authority ($50b+ committed to AI semiconductor infrastructure).
 
 <hr>
   

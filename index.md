@@ -9,9 +9,9 @@
 
 <hr>
 
-### Past and current clients include
+### Past and current clients
 
-Global HR tech leaders, global investment banks, and sovereign AI authorities.
+Global HR tech leaders, global investment banks, sovereign AI authorities.
 
 <hr>
   

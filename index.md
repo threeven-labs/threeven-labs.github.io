@@ -9,7 +9,7 @@
 
 <hr>
 
-### Past and current clients
+### Past and Current Clients
 
 Global HR tech leader ($1b+ annual revenue), global investment bank ($50b+ annual revenue), sovereign AI authority ($50b+ committed to AI semiconductor infrastructure).
 
